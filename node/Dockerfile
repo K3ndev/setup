@@ -8,3 +8,6 @@ RUN npm install -g pnpm
 
 # go to your target dir
 # docker run -it -v .:/project custom-node sh
+
+# recommended extension for vscode
+# Dev Containers (ms-vscode-remote.remote-containers)
