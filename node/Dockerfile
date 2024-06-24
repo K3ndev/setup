@@ -11,7 +11,7 @@ RUN git config --global user.email "racelisjk@gmail.com"
 
 # docker build --tag custom-node .
 
-# go to your target dir
+# go to your target directory
 # docker run -it -v .:/projects/<yourProjectName> custom-node sh
 
 # recommended extension for vscode
